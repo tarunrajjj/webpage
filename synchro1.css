@@ -1,0 +1,174 @@
+.zero{
+    margin-left: 30px;
+    display: flex;
+    padding-top: 20px;
+    margin-left: 9%;
+}
+.zero p{
+    display: flex;
+    margin-top: 0;
+    width: 20px;
+    height: 20px;
+    margin-right: 250px;
+}
+  .zero img {
+     width: 20px; 
+     height: 30px; 
+     margin-right: 20px;
+     margin-left: 10%;
+  }
+  .side{
+    display: flex;
+margin-left: 300px;
+  }
+  .side a{
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+  }
+  i{
+    width: 30px;
+  }
+.link{
+    padding-top: 30px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.link a{
+    text-decoration: none;
+    color: black;
+    /* margin-top: 40px; */
+    text-transform: capitalize;
+}
+a:hover{
+    cursor: pointer;
+    background-color: white;
+    border: 2px solid rgb(221, 226, 144) ;
+    /* height: 25px; */
+    border-radius: 5px;
+    scale: 1.3;   
+}
+.poster{
+    padding-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+.heading{
+    padding-top: 20px;
+    text-transform: capitalize;
+    text-align: center;
+}
+.heading h1{
+   color: blue;
+   font-size: 3em;
+}
+.heading p{
+    margin-left: 25%;
+    margin-right: 25%;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#jobrole{
+    margin-right: 20px;
+    width: 9vw;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: grey;
+}
+#jobrole:hover{
+    scale: 1.1;
+}
+#location{
+    margin-right: 20px;
+    width: 9vw;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: gray;
+}
+#location:hover{
+scale: 1.1;
+}
+#BUTTON{
+    background-color:rgb(136, 153, 158);
+    border: 0;
+    padding: 5px;
+    box-shadow: 2px 2px 10px;
+}
+#BUTTON:hover{
+    scale: 1.1;
+}
+.video{
+    display: flex;
+    align-items: center;
+    padding-top: 40px;
+    margin-left: 250px;
+    margin-right: 20px;
+}
+.para{
+    padding-top: 20px;
+    text-align: center;
+    text-transform: capitalize;
+}
+.para h1{
+    color: blue;
+    font-size: 2em;
+}
+.para b{
+    text-transform: uppercase;
+}
+.para p{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-transform: lowercase;
+}
+.our{
+    padding-top: 20px;
+    text-align: center;
+      color: blue;
+} 
+.col{
+    display: flex;
+    justify-content: space-evenly;
+}
+.col h1{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.col p{
+    margin-right: 40px;
+    margin-left: 40px;
+}
+.end{
+    padding-top: 20px;
+    text-align: center;
+}
+.end h1{
+    text-transform: capitalize;
+    color: blue;
+}
+.end p{
+    margin-left: 25%;
+    margin-right: 25%;
+    font-family: 'Times New Roman', Times, serif; 
+    font-weight: 500; 
+    padding-bottom: 20px;
+}
+.last{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: black;
+    height: 6vw;
+}
+.last h2{
+    color: white;
+}
+.small img{
+    width: 20px;
+    height: 30px;
+    margin-right: 20px;
+}
